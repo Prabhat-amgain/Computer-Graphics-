@@ -1,3 +1,6 @@
+/*       
+	                                  Boundary ill Algorithm.
+*/
 #include<graphics.h>
 
 void boundaryfill4(int x ,int y , int fill_color , int boundary_color)
