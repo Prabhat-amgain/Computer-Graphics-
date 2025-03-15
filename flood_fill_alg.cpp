@@ -1,3 +1,7 @@
+/* 
+           Flood fill Algoritm
+*/
+	 
 #include<graphics.h>
 #include<stdio.h>
 void flood(int x1 , int y1 , int new_col , int old_col)
