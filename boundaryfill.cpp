@@ -1,5 +1,5 @@
 /*       
-	                                  Boundary ill Algorithm.
+	                                  Boundary  fill Algorithm.
 */
 #include<graphics.h>
 
